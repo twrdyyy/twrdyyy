@@ -1,4 +1,4 @@
-<p align="center">
+gp align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
@@ -13,21 +13,17 @@
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> Position **Quality Assurance Engineer** 
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/headbang.gif?raw=1" width="20vw" /> since **03.2020** till **now**
 
-<br />
-<br />
-
 ### Languages and tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff&color=red)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+![C++](http://img.shields.io/badge/-C++?style=flat-square&logo=c++&logoColor=ffffff&color=blue)
+![C](http://img.shields.io/badge/-C?style=flat-square&logo=c&logoColor=ffffff&color=9cf)
 
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-[Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Github](http://img.shields.io/badge/-Github%20-2088FF?style=flat-square&logo=github&logoColor=ffffff)
 
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
