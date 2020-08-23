@@ -1,4 +1,4 @@
-</gp align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
@@ -19,7 +19,7 @@
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff&color=red)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![C++](http://img.shields.io/badge/-C++-007396?style=flat-square&logo=c++&logoColor=ffffff&color=blue)
-![C](http://img.shields.io/badge/-C-007396?style=flat-square&logo=c&logoColor=ffffff&color=9cf)
+![C](http://img.shields.io/badge/--007396?style=flat-square&logo=c&logoColor=ffffff&color=9cf)
 
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
