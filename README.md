@@ -1,10 +1,3 @@
-```python
-from world import problem
-
-if __name__ == "__main__":
-    print(" The world is one BIG DATA problem. ")
-    problem.solve()
-```
 <p align="center">
   <br><br>
   <samp>
